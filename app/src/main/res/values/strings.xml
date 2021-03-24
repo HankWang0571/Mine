@@ -1,6 +1,6 @@
 <resources>
     <!-- app name -->
-    <string name="app_name">我的记账本</string>
+    <string name="app_name">敏敏爱记账</string>
     <string name="searchable_label">mine</string>
     <string name="searchable_hint">搜索</string>
 
