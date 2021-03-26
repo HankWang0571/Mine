@@ -43,7 +43,7 @@ public class MineApp extends Application {
         }
         AppCompatDelegate.setCompatVectorFromResourcesEnabled(true);
         // 检查新版本
-        UpdateUtils.startNewClientVersionCheckBackground(this);
+        //UpdateUtils.startNewClientVersionCheckBackground(this);
         // 初始化 LoadingLayout
         initLoadingLayout();
         // 初始化 ARouter
